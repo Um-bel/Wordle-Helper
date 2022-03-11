@@ -25,3 +25,4 @@ git clone Um-bel/Wordle-Helper
 or
 git clone https://github.com/Um-bel/Wordle-Helper
 ```
+The second most common would downloading through github. In the top right of the page click "download"
