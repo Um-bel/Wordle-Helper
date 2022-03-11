@@ -33,8 +33,6 @@ Now, let's make this friggin' code actually work. The worst part of this program
 
 To actually do such a thing, first you need to navigate to the enviroment of the extrated file. Then, open "args.json" in the code/text editor of your choice. 
 
-
-It will look something like this: 
 ```json
 {
     "notUsed": [], 
