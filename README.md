@@ -44,7 +44,7 @@ To actually do such a thing, first you need to navigate to the enviroment of the
 place the correct syntax in each of the breackets for each of the operators 
 
 >Syntax
->- Not Used: `[ "x", "y", "z" ] `
->- Unknowns: `[ ["x", 0], ["y", 1], ["z", 2] ]`
->- Knowns: `[ ["x", 0], ["y", 1], ["z", 2] ]`
+>- Not Used: ```[ "x", "y", "z" ] ```
+>- Unknowns: ```[ ["x", 0], ["y", 1], ["z", 2] ]```
+>- Knowns: ```[ ["x", 0], ["y", 1], ["z", 2] ]```
 
