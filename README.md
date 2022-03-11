@@ -25,4 +25,4 @@ git clone Um-bel/Wordle-Helper
 or
 git clone https://github.com/Um-bel/Wordle-Helper
 ```
-The second most common would downloading through github. In the top right of the page click "Code" then, click "Download code through zip". Navigate to the location of the file, and extract it to the enviroment of your choice
+The second most common would downloading through github. In the top right of the page click "Code" then, click "Download ZIP". Navigate to the location of the file, and extract it to the enviroment of your choice
