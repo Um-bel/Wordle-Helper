@@ -12,7 +12,6 @@ And, all things considered for how big the processes it's doing, it run's fairly
 
 >Steps
 >- download file
->- install node.js
 >- put in arguments 
 >- run script
 
@@ -26,3 +25,19 @@ or
 git clone https://github.com/Um-bel/Wordle-Helper
 ```
 The second most common would downloading through github. In the top right of the page click "Code" then, click "Download ZIP". Navigate to the location of the file, and extract it to the enviroment of your choice
+
+## Put in arguments
+
+Now, let's make this friggin' code actually work. The worst part of this program by far, is the data gathering. Obviously it's not going to just magically figure out: when, where, how, you're playing a wordle game. You need to manually put in the data of the game. I recommend starting the game, and outting in the words as you go. 
+
+To actually do such a thing, first you need to navigate to the enviroment of the extrated file. Then, open "args.json" in the code/text editor of your choice. 
+
+
+It will look something like this: 
+```json
+{
+    "notUsed": [], 
+    "unknowns": [], 
+    "knowns": []
+}
+```
