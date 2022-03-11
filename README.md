@@ -11,8 +11,8 @@ And, all things considered for how big the processes it's doing, it run's fairly
 # How to use
 
 >Steps
->- copy file
->- install node js
+>- download file
+>- install node.js
 >- put in arguments 
 >- run script
 
