@@ -30,7 +30,6 @@ The second most common would downloading through github. In the top right of the
 
 Now, let's make this friggin' code actually work. The worst part of this program by far, is the data gathering. Obviously it's not going to just magically figure out: when, where, how, you're playing a wordle game. You need to manually put in the data of the game. I recommend starting the game, and outting in the words as you go. 
 
-##### getting started
 
 To actually do such a thing, first you need to navigate to the enviroment of the extrated file. Then, open "args.json" in the code/text editor of your choice. 
 
